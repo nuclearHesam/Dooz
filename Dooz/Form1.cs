@@ -1,8 +1,8 @@
 namespace Dooz
 {
-    public partial class Form1 : Form
+    public partial class GamePage : Form
     {
-        public Form1()
+        public GamePage()
         {
             InitializeComponent();
         }
