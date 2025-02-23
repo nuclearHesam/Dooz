@@ -49,6 +49,7 @@
             r2c2.Size = new Size(140, 140);
             r2c2.TabIndex = 18;
             r2c2.UseVisualStyleBackColor = false;
+            r2c2.Click += Buttons_Click;
             // 
             // r3c1
             // 
@@ -60,6 +61,7 @@
             r3c1.Size = new Size(140, 140);
             r3c1.TabIndex = 17;
             r3c1.UseVisualStyleBackColor = false;
+            r3c1.Click += Buttons_Click;
             // 
             // r3c2
             // 
@@ -71,6 +73,7 @@
             r3c2.Size = new Size(140, 140);
             r3c2.TabIndex = 16;
             r3c2.UseVisualStyleBackColor = false;
+            r3c2.Click += Buttons_Click;
             // 
             // r3c3
             // 
@@ -82,6 +85,7 @@
             r3c3.Size = new Size(140, 140);
             r3c3.TabIndex = 15;
             r3c3.UseVisualStyleBackColor = false;
+            r3c3.Click += Buttons_Click;
             // 
             // r2c1
             // 
@@ -93,6 +97,7 @@
             r2c1.Size = new Size(140, 140);
             r2c1.TabIndex = 14;
             r2c1.UseVisualStyleBackColor = false;
+            r2c1.Click += Buttons_Click;
             // 
             // r2c3
             // 
@@ -104,6 +109,7 @@
             r2c3.Size = new Size(140, 140);
             r2c3.TabIndex = 13;
             r2c3.UseVisualStyleBackColor = false;
+            r2c3.Click += Buttons_Click;
             // 
             // r1c2
             // 
@@ -115,6 +121,7 @@
             r1c2.Size = new Size(140, 140);
             r1c2.TabIndex = 12;
             r1c2.UseVisualStyleBackColor = false;
+            r1c2.Click += Buttons_Click;
             // 
             // r1c3
             // 
@@ -126,6 +133,7 @@
             r1c3.Size = new Size(140, 140);
             r1c3.TabIndex = 11;
             r1c3.UseVisualStyleBackColor = false;
+            r1c3.Click += Buttons_Click;
             // 
             // r1c1
             // 
@@ -137,6 +145,7 @@
             r1c1.Size = new Size(140, 140);
             r1c1.TabIndex = 10;
             r1c1.UseVisualStyleBackColor = false;
+            r1c1.Click += Buttons_Click;
             // 
             // GamePage
             // 
