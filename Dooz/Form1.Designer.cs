@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(GamePage));
             r2c2 = new Button();
             r3c1 = new Button();
             r3c2 = new Button();
@@ -164,6 +165,7 @@
             Controls.Add(r1c1);
             Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(4, 5, 4, 5);
             MaximizeBox = false;
             MinimizeBox = false;
